@@ -4,6 +4,7 @@ AI Karaoke es una aplicación que permite separar las pistas de voz e instrument
 Todo el procesamiento ocurre localmente, sin necesidad de conexión a Internet.
 
 Características
+
 🎶 Separación automática de voz e instrumental usando Demucs.
 
 ✍️ Transcripción de la voz a texto en español usando OpenAI Whisper.
@@ -13,6 +14,7 @@ Características
 🎛️ Interfaz de usuario sencilla e intuitiva desarrollada con Gradio.
 
 Tecnologías
+
 Demucs - Separación de audio.
 
 OpenAI Whisper - Transcripción automática.
