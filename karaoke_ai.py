@@ -6,7 +6,6 @@ import whisper
 from difflib import SequenceMatcher
 
 
-# Cambiamos a un modelo Whisper más ligero
 modelo_whisper = whisper.load_model("medium")
 
 languages = [
