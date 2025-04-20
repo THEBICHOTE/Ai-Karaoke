@@ -1,4 +1,5 @@
 🎤 AI Karaoke - Separador y Transcriptor de Canciones
+
 AI Karaoke es una aplicación que permite separar las pistas de voz e instrumental de una canción y transcribir automáticamente la letra utilizando inteligencia artificial.
 Todo el procesamiento ocurre localmente, sin necesidad de conexión a Internet.
 
@@ -21,6 +22,7 @@ Gradio - Interfaz gráfica.
 FFmpeg - Procesamiento de formatos de audio.
 
 Requisitos
+
 Python 3.8 o superior
 
 Tener ffmpeg instalado y configurado en el PATH.
