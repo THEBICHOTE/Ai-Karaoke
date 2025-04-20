@@ -30,8 +30,9 @@ Tener ffmpeg instalado y configurado en el PATH.
 Instalar dependencias:
 
 bash
-Copiar código
 pip install torch demucs whisper gradio pydub
+
+
 Uso
 Ejecuta el archivo principal.
 
