@@ -65,7 +65,7 @@ def evaluar_canto(user_audio, letra_original):
     except Exception as e:
         return f"Error: {str(e)}", None, None
 
-with gr.Blocks() as interfaz:
+with gr.Blocks(title="Karaoke con IA") as interfaz:
     gr.Markdown("## Karaoke con IA: Separación + Transcripción + Evaluación")
 
     with gr.Row():
